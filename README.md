@@ -30,7 +30,7 @@
 | Project | One-liner | Stack |
 |---|---|---|
 | 🏺 [**code-archaeology**](https://github.com/frankliu20/code-archaeology) | *Why is this code here?* — a VS Code extension that aggregates git + PRs + issues into a streaming three-layer answer | TypeScript · VS Code Extension API · GraphQL |
-| 📚 **personal-reading-ai** | Self-built reading dashboard + AI recommender from years of WeRead highlight data | Next.js · Vercel AI SDK · MCP |
+| 📚 [**ai-reading-mate**](https://github.com/frankliu20/ai-reading-mate) | A warm, mobile-friendly reading dashboard + AI book recommender — bring your own reading data | Next.js · Claude Code · MCP |
 | 🚁 **dev-pilot** *(Internal)* | A toolkit for running a personal AI engineering team — issue → code → test → PR → CI | Claude Code · GitHub Actions |
 | 🐛 [**mcp-server-weread**](https://github.com/frankliu20/mcp-server-weread) | MCP server for WeRead, with extensions for booklists | Node.js · MCP |
 
