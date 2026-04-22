@@ -33,6 +33,7 @@
 | 📚 [**ai-reading-mate**](https://github.com/frankliu20/ai-reading-mate) | A warm, mobile-friendly reading dashboard + AI book recommender — bring your own reading data | Next.js · Claude Code · MCP |
 | 🚁 **dev-pilot** *(Internal)* | A toolkit for running a personal AI engineering team — issue → code → test → PR → CI | Claude Code · GitHub Actions |
 | 🐛 [**mcp-server-weread**](https://github.com/frankliu20/mcp-server-weread) | MCP server for WeRead, with extensions for booklists | Node.js · MCP |
+| 🚁 [**dev-pilot**](https://github.com/frankliu20/dev-pilot) *(Private)* | A toolkit for running a personal AI engineering team — issue → code → test → PR → CI | Claude Code · GitHub Actions |
 
 ---
 
