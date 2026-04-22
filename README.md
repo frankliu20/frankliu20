@@ -29,6 +29,7 @@
 | Project | One-liner | Stack |
 |---|---|---|
 | 🏺 [**code-archaeology**](https://github.com/frankliu20/code-archaeology) | *Why is this code here?* — a VS Code extension that aggregates git + PRs + issues into a streaming three-layer answer | TypeScript · VS Code Extension API · GraphQL |
+| 🪵 [**codezen**](https://github.com/frankliu20/codezen) | Turn every keystroke into merit — a mindful coding companion with wooden fish animation, rank system, and anti-cheat | TypeScript · VS Code Extension API · SVG |
 | 📚 [**ai-reading-mate**](https://github.com/frankliu20/ai-reading-mate) | A warm, mobile-friendly reading dashboard + AI book recommender — bring your own reading data | Next.js · Claude Code · MCP |
 | 🐛 [**mcp-server-weread**](https://github.com/frankliu20/mcp-server-weread) | MCP server for WeRead, with extensions for booklists | Node.js · MCP |
 | 🚁 [**dev-pilot**](https://github.com/frankliu20/dev-pilot) *(Private)* | A toolkit for running a personal AI engineering team — issue → code → test → PR → CI | Claude Code · GitHub Actions |
@@ -47,6 +48,7 @@
 ## 📡 Currently
 
 - 🏗 Building [**code-archaeology**](https://github.com/frankliu20/code-archaeology) — M0 shipped, M1 will integrate the VS Code Language Model API (Copilot)
+- 🪵 Shipped [**codezen**](https://github.com/frankliu20/codezen) v0.1 — write code, earn merit, become enlightened
 - 🧪 Iterating on **dev-pilot** — pipeline orchestration for AI engineering teams
 - 📖 Reading: agent design patterns, evals, and the long tail of "tool use" failures
 
