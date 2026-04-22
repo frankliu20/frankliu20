@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/frankliu20?tab=repositories"><img alt="repos" src="https://img.shields.io/badge/-Open%20Source-181717?logo=github&logoColor=white"></a>
-  <img alt="msft" src="https://img.shields.io/badge/Microsoft-DevDiv-0078D4?logo=microsoft&logoColor=white">
   <img alt="ai" src="https://img.shields.io/badge/-AI%20Agents-7c3aed?logo=anthropic&logoColor=white">
 </p>
 
