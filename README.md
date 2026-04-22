@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Frank 👋</h1>
 
 <p align="center">
-  <em>Senior Software Engineer @ Microsoft · Cloud-Native veteran turned vibe-coding believer</em>
+  <em>Software Engineer @ Microsoft · Cloud-Native veteran turned vibe-coding believer</em>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👋 About me
 
-- 🛠 **Senior Software Engineer at Microsoft** — DevDiv, working on developer tools for the AI-native era.
+- 🛠 **Software Engineer at Microsoft** — working on developer tools for the AI-native era.
 - ☁️ **Previously**: years of Cloud Native — Kubernetes, Spring Cloud, Azure container platforms, the whole microservices zoo.
 - 🪄 **Now**: full-on **vibe-coding believer**. The most fun I've had as an engineer is sketching software with an agent at my side, in plain language, in flow.
 - 🌏 Based in China.
