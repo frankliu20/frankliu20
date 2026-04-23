@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="./banner.svg" alt="Frank Liu - Full Stack Engineer &amp; AI Developer" width="100%"/>
+</p>
+
 <h1 align="center">Hi, I'm Frank 👋</h1>
 
 <p align="center">
-  <em>Software Engineer @ Microsoft · Cloud-Native veteran turned vibe-coding believer</em>
+  <em>Full Stack Engineer &amp; AI Developer @ Microsoft · Cloud-Native veteran turned vibe-coding believer</em>
 </p>
 
 <p align="center">
