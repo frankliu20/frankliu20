@@ -32,11 +32,11 @@
 
 | Project | One-liner | Stack |
 |---|---|---|
+| 🚁 [**dev-pilot**](https://github.com/frankliu20/dev-pilot) | AI Multi-Agent engineering team — one developer, full team power. Automates the entire dev lifecycle from coding to CI | Claude Code · GitHub Copilot |
 | 🏺 [**code-archaeology**](https://github.com/frankliu20/code-archaeology) | *Why is this code here?* — a VS Code extension that aggregates git + PRs + issues into a streaming three-layer answer | TypeScript · VS Code Extension API · GraphQL |
 | 🪵 [**codezen**](https://github.com/frankliu20/codezen) | Turn every keystroke into merit — a mindful coding companion with wooden fish animation, rank system, and anti-cheat | TypeScript · VS Code Extension API · SVG |
 | 📚 [**ai-reading-mate**](https://github.com/frankliu20/ai-reading-mate) | A warm, mobile-friendly reading dashboard + AI book recommender — bring your own reading data | Next.js · Claude Code · MCP |
 | 🐛 [**mcp-server-weread**](https://github.com/frankliu20/mcp-server-weread) | MCP server for WeRead, with extensions for booklists | Node.js · MCP |
-| 🚁 [**dev-pilot**](https://github.com/frankliu20/dev-pilot) | A toolkit for running a personal AI engineering team — issue → code → test → PR → CI | Claude Code · GitHub Copilot |
 
 ---
 
