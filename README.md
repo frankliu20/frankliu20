@@ -33,6 +33,7 @@
 | Project | One-liner | Stack |
 |---|---|---|
 | 🚁 [**dev-pilot**](https://github.com/frankliu20/dev-pilot) | AI Multi-Agent engineering team — one developer, full team power. Automates the entire dev lifecycle from coding to CI | Claude Code · GitHub Copilot |
+| 🛡️ [**DevSquire**](https://github.com/frankliu20/DevSquire) | AI Agentic Engineer for VS Code — autonomously develops issues, reviews PRs, monitors CI with real-time dashboard | TypeScript · VS Code Extension API · Claude Code |
 | 🏺 [**code-archaeology**](https://github.com/frankliu20/code-archaeology) | *Why is this code here?* — a VS Code extension that aggregates git + PRs + issues into a streaming three-layer answer | TypeScript · VS Code Extension API · GraphQL |
 | 🪵 [**codezen**](https://github.com/frankliu20/codezen) | Turn every keystroke into merit — a mindful coding companion with wooden fish animation, rank system, and anti-cheat | TypeScript · VS Code Extension API · SVG |
 | 📚 [**ai-reading-mate**](https://github.com/frankliu20/ai-reading-mate) | A warm, mobile-friendly reading dashboard + AI book recommender — bring your own reading data | Next.js · Claude Code · MCP |
@@ -51,6 +52,7 @@
 
 ## 📡 Currently
 
+- 🛡️ Shipped [**DevSquire**](https://github.com/frankliu20/DevSquire) v0.1 — one developer + DevSquire = a full engineering team
 - 🏗 Building [**code-archaeology**](https://github.com/frankliu20/code-archaeology) — M0 shipped, M1 will integrate the VS Code Language Model API (Copilot)
 - 🪵 Shipped [**codezen**](https://github.com/frankliu20/codezen) v0.1 — write code, earn merit, become enlightened
 - 🧪 Iterating on **dev-pilot** — pipeline orchestration for AI engineering teams
